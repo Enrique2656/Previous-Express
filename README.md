@@ -7,5 +7,5 @@ Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 5
-this was still challenging for me as i grasp all the concepts, I feel like repition is a thing that will help me get more familiar with writing full stack applications 
+this was still challenging for me as i grasp all the concepts, I feel like repition is a thing that will help me get more familiar with writing full stack applications.
 ```
